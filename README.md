@@ -4,7 +4,7 @@
 
 1. Fill in the IP of your device in the 'EXPO_PUBLIC_API_URL' variable in the .env file
 
-2. Start the backend (https://github.com/davidmakivic/papricica)
+2. Start the backend [Papricica Backend](https://github.com/davidmakivic/papricica)
 
 3. Install dependencies
 
