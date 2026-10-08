@@ -2,7 +2,7 @@
 
 ## Get started
 
-1. Fill in the IP of your device in the 'EXPO_PUBLIC_API_URL' variable in the .env file
+1. Add the IP of your PC/laptop to the 'EXPO_PUBLIC_API_URL' variable in the .env file. It expects a proper absolute URL(http://...).
 
 2. Start the backend [Papricica Backend](https://github.com/davidmakivic/papricica)
 
